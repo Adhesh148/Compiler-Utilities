@@ -1,0 +1,24 @@
+4
+A -> B
+B -> C | D E F | EPSILON
+C -> a
+D -> b
+
+5
+E -> T E'
+E' -> + T E' | EPSILON
+T -> F T'
+T' -> * F T' | EPSILON
+F -> ( E ) | id
+
+6
+S -> a B D h
+B -> c C
+C -> b C | EPSILON
+D -> E F
+E -> g | EPSILON
+F -> f | EPSILON
+
+2
+A -> A B d | A a | a
+B -> B e | b
