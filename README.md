@@ -1,5 +1,5 @@
 # Comiler-Utilities
-This program  
+This program provides compiler utility tools.
 
 ### Features implemented
 1. Check if the grammar contains left recursion for any production.                  
@@ -23,7 +23,13 @@ The program is evident. However there is a format to enter the productions. Refe
 
 ### Look at the program
 
+#### Without Left Recursion:
+![out](screenshots/out_1.png) 
 
+![out](screenshots/out_2.png)
+
+#### With Left Recursion:
+![out](screenshots/out_with_left_recr.png)
 
 --------------------------------------------------------------------------------------------------------
 
