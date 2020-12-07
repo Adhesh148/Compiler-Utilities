@@ -1,4 +1,4 @@
-# Comiler-Utilities
+# Compiler-Utilities
 This program provides compiler utility tools.
 
 ### Features implemented
@@ -10,7 +10,7 @@ This program provides compiler utility tools.
 ### How to run
 ``python3 compilerUtils.py``
 
-### Instructions to Use
+### Usage
 The program is evident. However there is a format to enter the productions. Refer to the example here:          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A -> A B d | A a <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A -> c <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B -> b | EPSILON <br/>  
 
